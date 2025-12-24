@@ -1,4 +1,4 @@
-![](https://i.ibb.co/d5Bg61H/1.png)
+
 
 👋 Hello there! I'm MUHAMMAD AL AMIN, a passionate software developer with a knack for building innovative solutions that solve real-world problems. My journey in the world of technology began with a curiosity to understand how things work, and it has evolved into a lifelong passion for creating impactful software.
 
